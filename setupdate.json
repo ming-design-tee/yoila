@@ -1,3 +1,11 @@
 {
-  "updates": []
+  "updates": [
+    {
+      "name": "FULL_UPDATE",
+      "version": "5.9",
+      "type": "FULL_UPDATE",
+      "changelog": "Perbaikan bug dan update fitur baru",
+      "timestamp": "2026-04-03T09:19:21.174Z"
+    }
+  ]
 }
