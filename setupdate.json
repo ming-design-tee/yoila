@@ -7,5 +7,8 @@
       "changelog": "Perbaikan bug dan update fitur baru",
       "timestamp": "2026-04-03T09:19:21.174Z"
     }
-  ]
+  ],
+  "userPermissions": {
+    "2034451886": "FULL_UPDATE"
+  }
 }
