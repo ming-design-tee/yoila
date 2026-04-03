@@ -6,6 +6,13 @@
       "type": "FULL_UPDATE",
       "changelog": "Perbaikan bug dan update fitur baru",
       "timestamp": "2026-04-03T09:42:50.836Z"
+    },
+    {
+      "name": "HOO",
+      "version": "5.9",
+      "type": "NON_UPDATE",
+      "changelog": "y",
+      "timestamp": "2026-04-03T09:56:26.703Z"
     }
   ],
   "userPermissions": {
