@@ -1,21 +1,4 @@
 {
-  "updates": [
-    {
-      "name": "FULL_UPDATE",
-      "version": "5.9",
-      "type": "FULL_UPDATE",
-      "changelog": "Perbaikan bug dan update fitur baru",
-      "timestamp": "2026-04-03T09:42:50.836Z"
-    },
-    {
-      "name": "HOO",
-      "version": "5.9",
-      "type": "NON_UPDATE",
-      "changelog": "y",
-      "timestamp": "2026-04-03T10:00:55.654Z"
-    }
-  ],
-  "userPermissions": {
-    "2034451886": "NON_UPDATE"
-  }
+  "updates": [],
+  "userPermissions": {}
 }
